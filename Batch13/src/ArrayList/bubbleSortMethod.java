@@ -31,7 +31,7 @@ public class bubbleSortMethod {
 
     public static void main(String[] args) {
 
-        int nums[] = {3, 6, 2, 3, 1, 88, 43};
+        int nums[] = {3, 6, 2, 3, 1, 99, 43};
         bubbleSortMethod.bubbleSort(nums);
 
         String name = "kubanychhh";
