@@ -2,7 +2,7 @@ package OOP.Inheritance2.Abstraction.Abstract1;
 
 public abstract class Student {
 
-    String name;
+    String name; // instance variable
     int age;
 
     public Student(String name, int age) {
@@ -18,6 +18,7 @@ public abstract class Student {
 
     // This is regular (non-abstract) method
     public void eating(){
+
         System.out.println(name + " is eating");
     }
 

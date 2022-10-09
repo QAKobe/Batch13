@@ -2,7 +2,7 @@
 //
 //public class V_Neck_T_Shirt extends T_Shirt{
 //
-//    * YOU CANNOT EXTEND FROM FINAL CLASS (T_SHIRT)
+//   // * YOU CANNOT EXTEND FROM FINAL CLASS (T_SHIRT)
 //
 //
 //
