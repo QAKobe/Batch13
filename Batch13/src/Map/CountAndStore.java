@@ -167,7 +167,7 @@ public class CountAndStore {
             }
 
         }
-        System.out.println(map3);
+        System.out.println(map3 + "map3");
 
         String reversed = "";
         for (int i = str1.length()-1; i >= 0 ; i--) {
